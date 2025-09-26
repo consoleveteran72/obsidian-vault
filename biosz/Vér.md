@@ -1,0 +1,1 @@
+-folyékony kötőszövet
