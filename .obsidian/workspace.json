@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86757be3020e7335",
+        "id": "35d75bd389052b84",
         "type": "tabs",
         "children": [
           {
-            "id": "808efd5077fdd1b1",
+            "id": "483aa162dabd543b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,18 +177,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7820674610ca6e8",
+  "active": "c14d413f1da6c7a9",
   "lastOpenFiles": [
-    "biosz/D-vitamin.md",
+    "ASd.md",
+    "Zettelkasten/Templates/General Notes.md",
+    "Zettelkasten/Tags",
+    "Zettelkasten/Templates",
+    "Indexes",
+    "Notes",
+    "Zettelkasten",
+    "Notes/biosz/D-vitamin.md",
     "The all obsidian vault.md",
-    "biosz/Vér.md",
+    "Notes/biosz/Vér.md",
     "asd.md",
     "Excalidraw/Drawing 2025-09-22 22.29.15.excalidraw.md",
     "Untitled.base",
     "Excalidraw",
-    "biosz",
+    "Notes/biosz",
     "vault",
     "Welcome.md",
-    "biosz"
+    "Notes/biosz"
   ]
 }
