@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de80a528b6cbabef",
+        "id": "86757be3020e7335",
         "type": "tabs",
         "children": [
           {
-            "id": "560506154270c4bf",
+            "id": "808efd5077fdd1b1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,11 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14d413f1da6c7a9",
+  "active": "f7820674610ca6e8",
   "lastOpenFiles": [
+    "biosz/D-vitamin.md",
     "The all obsidian vault.md",
     "biosz/Vér.md",
-    "biosz/D-vitamin.md",
     "asd.md",
     "Excalidraw/Drawing 2025-09-22 22.29.15.excalidraw.md",
     "Untitled.base",
