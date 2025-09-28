@@ -11,14 +11,10 @@
             "id": "fbd98771bef5ce48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fuck.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "fuck"
+              "title": "New tab"
             }
           }
         ]
@@ -181,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbd98771bef5ce48",
+  "active": "c14d413f1da6c7a9",
   "lastOpenFiles": [
     "fuck.md",
     "idk.md",
