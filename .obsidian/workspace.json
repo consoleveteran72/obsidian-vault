@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7928c4434b3b461",
+        "id": "4fd46016e3458755",
         "type": "tabs",
         "children": [
           {
-            "id": "0bc86a97b84e8a75",
+            "id": "fbd98771bef5ce48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "fuck.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "fuck"
             }
           }
         ]
@@ -177,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14d413f1da6c7a9",
+  "active": "fbd98771bef5ce48",
   "lastOpenFiles": [
+    "fuck.md",
     "idk.md",
     "ASd.md",
     "Zettelkasten/Templates/General Notes.md",
