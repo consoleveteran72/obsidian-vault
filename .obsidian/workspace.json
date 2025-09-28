@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "220e97da5196731a",
+        "id": "b7928c4434b3b461",
         "type": "tabs",
         "children": [
           {
-            "id": "157d10527986239f",
+            "id": "0bc86a97b84e8a75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idk.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "idk"
+              "title": "New tab"
             }
           }
         ]
@@ -181,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "157d10527986239f",
+  "active": "c14d413f1da6c7a9",
   "lastOpenFiles": [
     "idk.md",
     "ASd.md",
