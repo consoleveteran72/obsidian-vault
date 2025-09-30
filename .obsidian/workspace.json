@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4fd46016e3458755",
+        "id": "bfb58cc180c121be",
         "type": "tabs",
         "children": [
           {
-            "id": "fbd98771bef5ce48",
+            "id": "11d459ad1638b158",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Nemet/Diktieren dialog.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diktieren dialog"
-            }
-          },
-          {
-            "id": "97dc23a82e62a395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Atomic habits/Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Test"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14d413f1da6c7a9",
+  "active": "11d459ad1638b158",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-30 10.07.07.excalidraw.md",
+    "Test.md",
+    "Excalidraw",
+    "Zettelkasten/Templates/General Notes.md",
     "Notes/Nemet/Diktieren dialog.md",
     "Notes/Atomic habits/Summary.md",
     "Notes/Atomic habits",
@@ -205,7 +195,6 @@
     "fuck.md",
     "idk.md",
     "ASd.md",
-    "Zettelkasten/Templates/General Notes.md",
     "Zettelkasten/Tags",
     "Zettelkasten/Templates",
     "Indexes",
@@ -217,7 +206,6 @@
     "asd.md",
     "Excalidraw/Drawing 2025-09-22 22.29.15.excalidraw.md",
     "Untitled.base",
-    "Excalidraw",
     "Notes/biosz",
     "Welcome.md"
   ]
