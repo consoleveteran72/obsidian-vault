@@ -6,3 +6,9 @@ moffice_wr_check*
 Thumbs.db
 .thumbcache_*
 moffice_wr_check*
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
