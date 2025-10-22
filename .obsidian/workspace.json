@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "85d4fd1d5f56f753",
+        "id": "0be36d155bc2ef54",
         "type": "tabs",
         "children": [
           {
-            "id": "0d1d5a9fd059549d",
+            "id": "0dd95b005496daed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ]
@@ -177,11 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14d413f1da6c7a9",
+  "active": "0dd95b005496daed",
   "lastOpenFiles": [
+    "Notes/Fizika/Feladatok.md",
     "Notes/Books/Atomic habits summary.md",
     "asd.md",
-    "Notes/Fizika/Feladatok.md",
     "Notes/Fizika",
     "Excalidraw/Drawing 2025-09-30 10.07.07.excalidraw.md",
     "Excalidraw",
