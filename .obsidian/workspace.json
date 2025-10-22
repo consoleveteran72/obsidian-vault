@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0be36d155bc2ef54",
+        "id": "6a426f918a53d28b",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd95b005496daed",
+            "id": "e9e84c81346dea1c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -179,8 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0dd95b005496daed",
+  "active": "e9e84c81346dea1c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Notes/Matek/Függvény elemzések",
+    "Notes/Matek",
     "Notes/Fizika/Feladatok.md",
     "Notes/Books/Atomic habits summary.md",
     "asd.md",
@@ -198,13 +203,11 @@
     "Zettelkasten/Templates",
     "Indexes",
     "Notes",
-    "Zettelkasten",
     "Notes/biosz/D-vitamin.md",
     "The all obsidian vault.md",
     "Notes/biosz/Vér.md",
     "asd.md",
     "Excalidraw/Drawing 2025-09-22 22.29.15.excalidraw.md",
-    "Untitled.base",
     "Welcome.md"
   ]
 }
