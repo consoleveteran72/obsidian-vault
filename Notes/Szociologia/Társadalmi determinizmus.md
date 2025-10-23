@@ -5,7 +5,7 @@ Def: Minden társadalmi jelenséget egy másik társadalmi jelenség határoz me
 
 ![[szociidk]]
 
-$
+
 előítélet
 akarat
 terv
@@ -13,5 +13,6 @@ nevelés
 potenciál
 iq
 képesség
+
 
 
