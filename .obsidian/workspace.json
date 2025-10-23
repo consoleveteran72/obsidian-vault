@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Templates/General Notes.md",
+                "file": "Notes/Szociologia/Társadalmi determinizmus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Notes"
+              "title": "Társadalmi determinizmus"
             }
           }
         ]
@@ -184,8 +184,9 @@
   "active": "d8d4e98207f34f05",
   "lastOpenFiles": [
     "Untitled.md",
-    "ASD.md",
-    "Zettelkasten/Templates/General Notes.md",
+    "Notes/Szociologia/Társadalmi determinizmus.md",
+    "Zettelkasten/Templates/General notes.md",
+    "Notes/Szociologia",
     "The all obsidian vault.md",
     "Notes/biosz/Vér.md",
     "Notes/biosz/D-vitamin.md",
@@ -206,7 +207,6 @@
     "Zettelkasten/Tags",
     "Zettelkasten/Templates",
     "Indexes",
-    "Notes",
     "asd.md",
     "Excalidraw/Drawing 2025-09-22 22.29.15.excalidraw.md",
     "Welcome.md"
