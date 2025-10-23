@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4108bd9e2ecaf075",
+        "id": "574651f36e8681fe",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d4e98207f34f05",
+            "id": "c3e71daaa3557435",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,10 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8d4e98207f34f05",
+  "active": "c3e71daaa3557435",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Excalidraw/szociidk.md",
     "Notes/Szociologia/Társadalmi determinizmus.md",
+    "Notes/Books/Atomic habits summary.md",
+    "Untitled.md",
     "Zettelkasten/Templates/General notes.md",
     "Notes/Szociologia",
     "The all obsidian vault.md",
@@ -193,7 +195,6 @@
     "Notes/Fizika/Feladatok.md",
     "Notes/Matek/Függvény elemzések",
     "Notes/Matek",
-    "Notes/Books/Atomic habits summary.md",
     "asd.md",
     "Notes/Fizika",
     "Excalidraw/Drawing 2025-09-30 10.07.07.excalidraw.md",
