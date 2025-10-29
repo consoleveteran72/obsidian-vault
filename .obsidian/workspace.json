@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69c120880898492b",
+        "id": "b44565a46f1a4273",
         "type": "tabs",
         "children": [
           {
-            "id": "fb1d96d7b9c9f53a",
+            "id": "fde1752696843223",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,14 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb1d96d7b9c9f53a",
+  "active": "c14d413f1da6c7a9",
   "lastOpenFiles": [
-    "ARCTAN.md",
-    "Notes/Matek/Függvény elemzések/Tangent.md",
     "Notes/Matek/Függvény elemzések/ARCSIN.md",
+    "Notes/Matek/Függvény elemzések/ARCTAN.md",
+    "Notes/Matek/Függvény elemzések/COS.md",
+    "Notes/Matek/Függvény elemzések/Tangent.md",
     "Images/arctan.png",
     "Images/arcsin.png",
-    "Notes/Matek/Függvény elemzések/COS.md",
     "Images",
     "Images/tan.png",
     "Notes/Szociologia/Társadalmi determinizmus.md",
