@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b44565a46f1a4273",
+        "id": "67444e5d6b7f4cd4",
         "type": "tabs",
         "children": [
           {
-            "id": "fde1752696843223",
+            "id": "891dde734c2bc440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Matek/Függvény elemzések/Absolute value.md",
+                "file": "Notes/Fizika/Feladatok 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Absolute value"
+              "title": "Feladatok 1"
             }
           }
         ]
@@ -181,14 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fde1752696843223",
+  "active": "891dde734c2bc440",
   "lastOpenFiles": [
-    "Notes/Matek/Függvény elemzések/Tangent.md",
+    "Notes/Fizika/Feladatok.md",
+    "Notes/Fizika/Feladatok 1.md",
     "Notes/Matek/Függvény elemzések/Absolute value.md",
+    "Notes/Matek/Függvény elemzések/COS.md",
+    "Notes/Matek/Függvény elemzések/Tangent.md",
     "Images/absolute.png",
     "Notes/Matek/Függvény elemzések/ARCSIN.md",
     "Notes/Matek/Függvény elemzések/ARCTAN.md",
-    "Notes/Matek/Függvény elemzések/COS.md",
     "Images/arctan.png",
     "Images/arcsin.png",
     "Images",
@@ -202,7 +204,6 @@
     "The all obsidian vault.md",
     "Notes/biosz/Vér.md",
     "Notes/biosz/D-vitamin.md",
-    "Notes/Fizika/Feladatok.md",
     "Notes/Matek/Függvény elemzések",
     "Notes/Matek",
     "asd.md",
