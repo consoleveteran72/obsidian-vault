@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61d503ef02b53c35",
+        "id": "55cc4bb8d6f780f6",
         "type": "tabs",
         "children": [
           {
-            "id": "2087a8a71a6de166",
+            "id": "cedd4683e0621476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Matek/Függvény elemzések/Absolute value.md",
+                "file": "Notes/Matek/Függvény elemzések/Tangent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Absolute value"
+              "title": "Tangent"
             }
           }
         ]
@@ -181,20 +181,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2087a8a71a6de166",
+  "active": "cedd4683e0621476",
   "lastOpenFiles": [
+    "Notes/Matek/Függvény elemzések/COS.md",
+    "Notes/Matek/Függvény elemzések/ARCTAN.md",
+    "Notes/Matek/Függvény elemzések/ARCSIN.md",
+    "Notes/Matek/Függvény elemzések/Absolute value.md",
+    "Notes/Matek/Függvény elemzések/Tangent.md",
     "The all obsidian vault.md",
     "Notes/Nemet/Diktieren dialog.md",
     "Notes/Szociologia/Szociológia módszere.md",
     "Notes/Szociologia/Társadalmi determinizmus.md",
     "Notes/Fizika/Feladatok 1.md",
     "Notes/Fizika/Feladatok.md",
-    "Notes/Matek/Függvény elemzések/Absolute value.md",
-    "Notes/Matek/Függvény elemzések/COS.md",
-    "Notes/Matek/Függvény elemzések/Tangent.md",
     "Images/absolute.png",
-    "Notes/Matek/Függvény elemzések/ARCSIN.md",
-    "Notes/Matek/Függvény elemzések/ARCTAN.md",
     "Images/arctan.png",
     "Images/arcsin.png",
     "Images",
