@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Matek/Függvény elemzések/Négyzetgyök.md",
+                "file": "Notes/Matek/Függvény elemzések/Tangent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Négyzetgyök"
+              "title": "Tangent"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "9983687bc17a78ea",
   "lastOpenFiles": [
-    "Notes/Matek/Függvény elemzések/Tangent.md",
     "Notes/Matek/Függvény elemzések/Négyzetgyök.md",
+    "Notes/Matek/Függvény elemzések/Tangent.md",
     "Images/squareroot.png",
     "Notes/Matek/Függvény elemzések/Absolute value.md",
     "Notes/Matek/Függvény elemzések/COS.md",
