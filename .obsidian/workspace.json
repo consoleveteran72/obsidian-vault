@@ -11,14 +11,10 @@
             "id": "3c7704aeae714bb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -181,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c7704aeae714bb4",
+  "active": "f7820674610ca6e8",
   "lastOpenFiles": [
     "Untitled.md",
     "Notes/Matek/Trigonometrikus alak feladat 1.md",
