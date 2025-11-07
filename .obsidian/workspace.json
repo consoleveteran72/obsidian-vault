@@ -11,10 +11,14 @@
             "id": "3c7704aeae714bb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Proba.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Proba"
             }
           }
         ]
@@ -177,9 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7820674610ca6e8",
+  "active": "3c7704aeae714bb4",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Proba.md",
     "Notes/Matek/Trigonometrikus alak feladat 1.md",
     "Notes/Matek/Trigonometrikus alak feladat.md",
     "Notes/Matek/Teljes indukció érettségi példa.md",
