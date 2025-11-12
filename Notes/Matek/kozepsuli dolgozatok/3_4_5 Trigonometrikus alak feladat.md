@@ -11,7 +11,7 @@ $|Z_{1}| =|3-5i| = \sqrt{ 9+25 } = \sqrt{ 34 }$
 
 $$\tan \phi^{,} = \frac{5}{3}$$
 $$\phi^{,} = 59^\circ $$
-$$\phi = 360^\circ-\phi^{,} = 301^\circ$$
+$$ \phi = 360^\circ-\phi^{,} = 301^\circ$$
 
 
 $$Z = \frac{(3-5i)^6}{16-30i} = \frac{(\sqrt{ 34 }(\cos 301^\circ + i\sin 301^\circ))^6}{\sqrt{ 1156 }(\cos 298,07^\circ + i\sin 298,07^\circ)}=$$
