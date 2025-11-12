@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Matek/Fekete Mihály/2025/FM 2. 1. feladat.md",
+                "file": "Notes/Matek/Fekete Mihály/2025/FM 2. 4. feladat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FM 2. 1. feladat"
+              "title": "FM 2. 4. feladat"
+            }
+          },
+          {
+            "id": "cf3f12c5f35d93b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,16 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56c222a3c640158a",
+  "active": "cf3f12c5f35d93b9",
   "lastOpenFiles": [
-    "Notes/Matek/Fekete Mihály/2025/FM 2. 4. feladat.md",
-    "Notes/Matek/Fekete Mihály/2025/FM 2. 2. feladat.md",
     "Notes/Matek/Fekete Mihály/2025/FM 2. 3. feladat.md",
+    "Notes/Matek/Fekete Mihály/2025/FM 2. 2. feladat.md",
+    "Notes/Matek/Fekete Mihály/2025/FM 2. 1. feladat.md",
+    "Notes/Matek/Fekete Mihály/2025/FM 2. 4. feladat.md",
     "Proba.md",
     "Notes/Matek/Trigonometrikus alak feladat 1.md",
     "Notes/Matek/Trigonometrikus alak feladat.md",
     "Notes/Matek/Teljes indukció érettségi példa.md",
-    "Notes/Matek/Fekete Mihály/2025/FM 2. 1. feladat.md",
     "Notes/Matek/Fekete Mihály/2025",
     "Notes/Matek/Fekete Mihály",
     "Notes/Matek/Függvény elemzések/Négyzetgyök.md",
