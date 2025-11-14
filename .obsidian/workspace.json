@@ -11,14 +11,12 @@
             "id": "d2fa228b5bfd9150",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/Matek/Függvény elemzések/ARCSIN.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Matek/Derivative/derivalttablazat.pdf"
               },
-              "icon": "lucide-file",
-              "title": "ARCSIN"
+              "icon": "lucide-file-text",
+              "title": "derivalttablazat"
             }
           }
         ]
@@ -183,6 +181,7 @@
   },
   "active": "d2fa228b5bfd9150",
   "lastOpenFiles": [
+    "Notes/Matek/Függvény elemzések/ARCSIN.md",
     "Notes/Matek/kozepsuli dolgozatok/3_4_4 Teljes indukció érettségi példa.md",
     "Notes/Matek/kozepsuli dolgozatok/2.o_1.jpg",
     "Notes/Matek/kozepsuli dolgozatok/2.o_1_9.md",
@@ -206,7 +205,6 @@
     "Notes/Matek/Függvény elemzések/Négyzetgyök.md",
     "Notes/Matek/Függvény elemzések/Tangent.md",
     "Notes/Matek/Függvény elemzések/ARCTAN.md",
-    "Notes/Matek/Függvény elemzések/ARCSIN.md",
     "Images/squareroot.png",
     "Notes/Matek/Függvény elemzések/Absolute value.md",
     "Notes/Matek/Függvény elemzések/COS.md",
