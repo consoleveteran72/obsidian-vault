@@ -11,12 +11,14 @@
             "id": "d2fa228b5bfd9150",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Matek/Derivative/derivalttablazat.pdf"
+                "file": "Notes/Matek/Derivative/Deriválás.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "derivalttablazat"
+              "icon": "lucide-file",
+              "title": "Deriválás"
             }
           }
         ]
@@ -181,6 +183,9 @@
   },
   "active": "d2fa228b5bfd9150",
   "lastOpenFiles": [
+    "Notes/Matek/Derivative/derivalttablazat.pdf",
+    "Notes/Matek/Derivative/Tableofderivative.png",
+    "Notes/Matek/Derivative/Deriválás.md",
     "Notes/Matek/Függvény elemzések/ARCSIN.md",
     "Notes/Matek/kozepsuli dolgozatok/3_4_4 Teljes indukció érettségi példa.md",
     "Notes/Matek/kozepsuli dolgozatok/2.o_1.jpg",
@@ -213,18 +218,15 @@
     "Notes/Szociologia/Szociológia módszere.md",
     "Notes/Szociologia/Társadalmi determinizmus.md",
     "Notes/Fizika/Feladatok 1.md",
-    "Notes/Fizika/Feladatok.md",
     "Images/absolute.png",
     "Images/arctan.png",
     "Images/arcsin.png",
     "Images",
     "Images/tan.png",
-    "Images/cos.png",
     "Notes/Szociologia",
     "Notes/Matek/Függvény elemzések",
     "Notes/Matek",
     "Notes/Fizika",
-    "Excalidraw",
-    "Notes/Books"
+    "Excalidraw"
   ]
 }
