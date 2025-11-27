@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "CheatSheet"
             }
+          },
+          {
+            "id": "b65aa2a631ff13a9",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,10 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14d413f1da6c7a9",
+  "active": "b65aa2a631ff13a9",
   "lastOpenFiles": [
-    "Notes/Matek/Derivative/Deriválás.md",
+    "Notes/Web-dev/Emmet cheatsheet.md",
+    "Untitled.base",
     "Notes/Web-dev/CSS/CheatSheet.md",
+    "Notes/Matek/Derivative/Deriválás.md",
     "Notes/Web-dev/CSS",
     "Notes/Web-dev",
     "Notes/Matek/Derivative/derivalttablazat.pdf",
@@ -234,15 +249,12 @@
     "The all obsidian vault.md",
     "Notes/Nemet/Diktieren dialog.md",
     "Notes/Szociologia/Szociológia módszere.md",
-    "Notes/Szociologia/Társadalmi determinizmus.md",
-    "Notes/Fizika/Feladatok 1.md",
     "Images/absolute.png",
     "Images/arctan.png",
     "Images/arcsin.png",
     "Images",
     "Images/tan.png",
     "Notes/Szociologia",
-    "Notes/Matek/Függvény elemzések",
-    "Notes/Matek"
+    "Notes/Matek/Függvény elemzések"
   ]
 }
