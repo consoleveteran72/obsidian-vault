@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cbf0a2cd1df857b8",
+        "id": "a58b74a44256de99",
         "type": "tabs",
         "children": [
           {
-            "id": "8699a9111a279ca6",
+            "id": "17b5d6a6ef0ef1f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Szociologia/Társadalmi determinizmus.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Társadalmi determinizmus"
-            }
-          },
-          {
-            "id": "2fae31ff8fee2859",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fae31ff8fee2859",
+  "active": "c14d413f1da6c7a9",
   "lastOpenFiles": [
-    "Notes/Szociologia/Szociológia módszere.md",
+    "Notes/biosz/D-vitamin.md",
+    "Notes/Nemet/Diktieren dialog.md",
     "Notes/Szociologia/Társadalmi determinizmus.md",
+    "Notes/Szociologia/Szociológia módszere.md",
     "Untitled.base",
     "Notes/Web-dev/Emmet cheatsheet.md",
     "Notes/Web-dev/CSS/CheatSheet.md",
@@ -233,8 +218,6 @@
     "Images/squareroot.png",
     "Notes/Matek/Függvény elemzések/Absolute value.md",
     "Notes/Matek/Függvény elemzések/COS.md",
-    "The all obsidian vault.md",
-    "Notes/Nemet/Diktieren dialog.md",
     "Images/absolute.png",
     "Images/arctan.png",
     "Images/arcsin.png",
