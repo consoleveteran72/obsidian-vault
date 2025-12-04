@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a58b74a44256de99",
+        "id": "b59572078bef830b",
         "type": "tabs",
         "children": [
           {
-            "id": "17b5d6a6ef0ef1f1",
+            "id": "cb1e0b6cc88fd8cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "idkszoc.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "idkszoc"
             }
           }
         ]
@@ -177,14 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7820674610ca6e8",
+  "active": "cb1e0b6cc88fd8cf",
   "lastOpenFiles": [
+    "Untitled.base",
+    "idkszoc.md",
     "Notes/biosz/Vér.md",
     "Notes/biosz/D-vitamin.md",
     "Notes/Nemet/Diktieren dialog.md",
     "Notes/Szociologia/Társadalmi determinizmus.md",
     "Notes/Szociologia/Szociológia módszere.md",
-    "Untitled.base",
     "Notes/Web-dev/Emmet cheatsheet.md",
     "Notes/Web-dev/CSS/CheatSheet.md",
     "Notes/Matek/Derivative/Deriválás.md",
@@ -215,9 +220,7 @@
     "Notes/Matek/Fekete Mihály",
     "Notes/Matek/Függvény elemzések/Négyzetgyök.md",
     "Notes/Matek/Függvény elemzések/Tangent.md",
-    "Notes/Matek/Függvény elemzések/ARCTAN.md",
     "Images/squareroot.png",
-    "Notes/Matek/Függvény elemzések/Absolute value.md",
     "Images/absolute.png",
     "Images/arctan.png",
     "Images/arcsin.png",
