@@ -11,10 +11,14 @@
             "id": "0b7f13e286982127",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "asd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "asd"
             }
           }
         ]
@@ -179,6 +183,7 @@
   },
   "active": "c14d413f1da6c7a9",
   "lastOpenFiles": [
+    "asd.md",
     "Untitled",
     "idkszoc.md",
     "Untitled.base",
@@ -223,7 +228,6 @@
     "Images/arcsin.png",
     "Images",
     "Images/tan.png",
-    "Notes/Szociologia",
-    "Notes/Matek/Függvény elemzések"
+    "Notes/Szociologia"
   ]
 }
