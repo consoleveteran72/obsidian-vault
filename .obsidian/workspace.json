@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3337e74a0ed35460",
+        "id": "c76a381ddcf59af0",
         "type": "tabs",
         "children": [
           {
-            "id": "0b7f13e286982127",
+            "id": "2419fc0e11a98709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "jegyzet.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.12.7"
               },
-              "icon": "lucide-file",
-              "title": "jegyzet"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
         ]
@@ -181,26 +179,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b7f13e286982127",
+  "active": "2419fc0e11a98709",
   "lastOpenFiles": [
+    "Notes/Matek/Derivative/Tableofderivative.png",
+    "Notes/Web-dev/Emmet cheatsheet.md",
+    "Notes/Matek/Derivative/derivalttablazat.pdf",
+    "Notes/Matek/Derivative/Deriválás.md",
+    "Notes/Web-dev/CSS/CheatSheet.md",
+    "Untitled.base",
+    "idkszoc.md",
     "Proba.md",
+    "The all obsidian vault.md",
     "jegyzet.md",
     "asd.md",
     "Untitled",
-    "idkszoc.md",
-    "Untitled.base",
     "Notes/biosz/Vér.md",
     "Notes/biosz/D-vitamin.md",
     "Notes/Nemet/Diktieren dialog.md",
     "Notes/Szociologia/Társadalmi determinizmus.md",
     "Notes/Szociologia/Szociológia módszere.md",
-    "Notes/Web-dev/Emmet cheatsheet.md",
-    "Notes/Web-dev/CSS/CheatSheet.md",
-    "Notes/Matek/Derivative/Deriválás.md",
     "Notes/Web-dev/CSS",
     "Notes/Web-dev",
-    "Notes/Matek/Derivative/derivalttablazat.pdf",
-    "Notes/Matek/Derivative/Tableofderivative.png",
     "Notes/Matek/Függvény elemzések/ARCSIN.md",
     "Notes/Matek/kozepsuli dolgozatok/3_4_4 Teljes indukció érettségi példa.md",
     "Notes/Matek/kozepsuli dolgozatok/2.o_1.jpg",
@@ -215,13 +214,11 @@
     "Notes/Matek/kozepsuli dolgozatok/2.o_1._2.md",
     "Notes/Matek/kozepsuli dolgozatok/2.o_1_6.md",
     "Notes/Matek/kozepsuli dolgozatok/3_4_6 Trigonometrikus alak feladat 1.md",
-    "Notes/Matek/kozepsuli dolgozatok/3_4_5 Trigonometrikus alak feladat.md",
     "Notes/Matek/kozepsuli dolgozatok/3.o_2.jpg",
     "Notes/Matek/kozepsuli dolgozatok/3.o_1.jpg",
     "Notes/Matek/kozepsuli dolgozatok",
     "Notes/Matek/Fekete Mihály/2025",
     "Notes/Matek/Fekete Mihály",
-    "Notes/Matek/Függvény elemzések/Négyzetgyök.md",
     "Images/squareroot.png",
     "Images/absolute.png",
     "Images/arctan.png",
