@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,10 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "519cfec288868d36",
+  "active": "c14d413f1da6c7a9",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Notes/Matek/Függvény elemzések/COS.md",
+    "Notes/Matek/Függvény elemzések/ARCTAN.md",
+    "Notes/Matek/Függvény elemzések/ARCSIN.md",
+    "Notes/Matek/Függvény elemzések/Absolute value.md",
     "Notes/Matek/Halmazok.md",
+    "Untitled.base",
     "The all obsidian vault.md",
     "Proba.md",
     "Zettelkasten/Templates/General notes.md",
@@ -203,10 +207,6 @@
     "Notes/Matek/kozepsuli dolgozatok/2.o_1.jpg",
     "Notes/Matek/Függvény elemzések/Tangent.md",
     "Notes/Matek/Függvény elemzések/Négyzetgyök.md",
-    "Notes/Matek/Függvény elemzések/COS.md",
-    "Notes/Matek/Függvény elemzések/ARCTAN.md",
-    "Notes/Matek/Függvény elemzések/ARCSIN.md",
-    "Notes/Matek/Függvény elemzések/Absolute value.md",
     "Notes/Matek/Fekete Mihály/2025/FM 2. 4. feladat.md",
     "Notes/Matek/Fekete Mihály/2025/FM 2. 3. feladat.md",
     "Notes/Matek/Fekete Mihály/2025/FM 2. 2. feladat.md",
