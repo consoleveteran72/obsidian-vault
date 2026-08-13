@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Halmazok"
             }
+          },
+          {
+            "id": "19e8939a1523ae17",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14d413f1da6c7a9",
+  "active": "19e8939a1523ae17",
   "lastOpenFiles": [
     "Notes/Matek/Függvény elemzések/COS.md",
     "Notes/Matek/Függvény elemzések/ARCTAN.md",
