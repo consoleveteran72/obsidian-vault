@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eacb377737862c1f",
+        "id": "2ed90b436e3769c3",
         "type": "tabs",
         "children": [
           {
-            "id": "0cbe1b28ade1dec6",
+            "id": "124d3737a2e171e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Notes/Books/Atomic habits summary.md",
-                "mode": "source",
-                "source": false
+                "file": "Organizational tools/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Atomic habits summary"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -185,21 +184,31 @@
   },
   "active": "c14d413f1da6c7a9",
   "lastOpenFiles": [
+    "Images/absolute.png",
+    "Images/arcsin.png",
+    "Images/arctan.png",
+    "Images/cos.png",
+    "Images/squareroot.png",
+    "Images/tan.png",
+    "Source Notes/Latex matrixes syntax.md",
+    "Untitled",
+    "Fleeting notes",
+    "Permanent notes",
+    "Source Notes/The all obsidian vault.md",
+    "Organizational tools/Untitled.base",
+    "Notes/Books/Atomic habits summary.md",
     "Excalidraw/szociidk.md",
-    "Zettelkasten/Templates/General notes.md",
-    "Proba.md",
-    "Untitled.base",
-    "Notes/Matek/Halmazok.md",
-    "The all obsidian vault.md",
+    "Organizational tools/Templates/General notes.md",
+    "Source Notes/Matek/Halmazok.md",
     "Untitled.md",
     "Existence of nth roots.md",
     "Metric-completeness of R.md",
-    "Notes/Matek/Függvény elemzések/COS.md",
-    "Notes/Matek/Függvény elemzések/ARCTAN.md",
-    "Notes/Matek/Függvény elemzések/ARCSIN.md",
-    "Notes/Matek/Függvény elemzések/Absolute value.md",
-    "Web-dev/Emmet cheatsheet.md",
-    "Web-dev/CSS/CheatSheet.md",
+    "Source Notes/Matek/Függvény elemzések/COS.md",
+    "Source Notes/Matek/Függvény elemzések/ARCTAN.md",
+    "Source Notes/Matek/Függvény elemzések/ARCSIN.md",
+    "Source Notes/Matek/Függvény elemzések/Absolute value.md",
+    "Source Notes/Web-dev/Emmet cheatsheet.md",
+    "Source Notes/Web-dev/CSS/CheatSheet.md",
     "Notes/Matek/kozepsuli dolgozatok/3.o_2.jpg",
     "Notes/Matek/kozepsuli dolgozatok/3.o_1.jpg",
     "Notes/Matek/kozepsuli dolgozatok/3_4_6 Trigonometrikus alak feladat 1.md",
@@ -211,25 +220,14 @@
     "Notes/Matek/kozepsuli dolgozatok/2.o_1_7.md",
     "Notes/Matek/kozepsuli dolgozatok/2.o_1_6.md",
     "Notes/Matek/kozepsuli dolgozatok/2.o_1.jpg",
-    "Notes/Matek/Függvény elemzések/Tangent.md",
-    "Notes/Matek/Függvény elemzések/Négyzetgyök.md",
+    "Source Notes/Matek/Függvény elemzések/Tangent.md",
+    "Source Notes/Matek/Függvény elemzések/Négyzetgyök.md",
     "Notes/Matek/Fekete Mihály/2025/FM 2. 4. feladat.md",
-    "Notes/Matek/Fekete Mihály/2025/FM 2. 3. feladat.md",
-    "Notes/Matek/Fekete Mihály/2025/FM 2. 2. feladat.md",
-    "Images/tan.png",
-    "Images/squareroot.png",
-    "Images/cos.png",
-    "Images/arctan.png",
-    "Images/arcsin.png",
-    "Images/absolute.png",
     "Notes/Matek/Derivative/derivalttablazat.pdf",
-    "Untitled",
-    "Web-dev/CSS",
-    "Web-dev",
+    "Source Notes/Web-dev/CSS",
+    "Source Notes/Web-dev",
     "Notes/Matek/kozepsuli dolgozatok",
     "Notes/Matek/Fekete Mihály/2025",
-    "Notes/Matek/Fekete Mihály",
-    "Images",
-    "Notes/Szociologia"
+    "Notes/Matek/Fekete Mihály"
   ]
 }
