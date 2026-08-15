@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/2. Számelmélet/4. Tételek.md",
+                "file": "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/3. Matematikai logika/1. A diszjunkció, a konjungció és az ekvivalencia - 2. Implikáció.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Tételek"
+              "title": "1. A diszjunkció, a konjungció és az ekvivalencia - 2. Implikáció"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "55144771d6651bcc",
   "lastOpenFiles": [
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/2. Számelmélet/6. Számrendszerek.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/2. Számelmélet/5. Közös osztó, közös többszörös és az osztók száma.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/2. Számelmélet/4. Tételek.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/2. Számelmélet/3. Oszthatósági szabályok.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/2. Számelmélet/2. A prímszám és az összetett szám.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/2. Számelmélet/1. Osztó és oszthatóság - fogalmak és definíciók.md",
@@ -222,11 +225,8 @@
     "Source Notes/Matek/Függvény elemzések/ARCSIN.md",
     "Source Notes/Matek/Függvény elemzések/Absolute value.md",
     "Source Notes/Web-dev/Emmet cheatsheet.md",
-    "Source Notes/Web-dev/CSS/CheatSheet.md",
     "Notes/Matek/kozepsuli dolgozatok/3.o_2.jpg",
     "Notes/Matek/kozepsuli dolgozatok/3.o_1.jpg",
-    "Notes/Matek/kozepsuli dolgozatok/3_4_6 Trigonometrikus alak feladat 1.md",
-    "Notes/Matek/kozepsuli dolgozatok/3_4_5 Trigonometrikus alak feladat.md",
     "Notes/Matek/Derivative/derivalttablazat.pdf",
     "Source Notes/Web-dev/CSS",
     "Source Notes/Web-dev",
