@@ -11,10 +11,14 @@
             "id": "55144771d6651bcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/1. Halmazok/1. Halmazok – Bevezetés.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Halmazok – Bevezetés"
             }
           }
         ]
@@ -181,6 +185,9 @@
   },
   "active": "c14d413f1da6c7a9",
   "lastOpenFiles": [
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő",
+    "Source Notes/Matek/Halmazok.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/1. Halmazok/1. Halmazok – Bevezetés.md",
     "Images/absolute.png",
     "Images/arcsin.png",
     "Images/arctan.png",
@@ -196,7 +203,6 @@
     "Notes/Books/Atomic habits summary.md",
     "Excalidraw/szociidk.md",
     "Organizational tools/Templates/General notes.md",
-    "Source Notes/Matek/Halmazok.md",
     "Untitled.md",
     "Existence of nth roots.md",
     "Metric-completeness of R.md",
@@ -219,7 +225,6 @@
     "Notes/Matek/kozepsuli dolgozatok/2.o_1.jpg",
     "Source Notes/Matek/Függvény elemzések/Tangent.md",
     "Source Notes/Matek/Függvény elemzések/Négyzetgyök.md",
-    "Notes/Matek/Fekete Mihály/2025/FM 2. 4. feladat.md",
     "Notes/Matek/Derivative/derivalttablazat.pdf",
     "Source Notes/Web-dev/CSS",
     "Source Notes/Web-dev",
