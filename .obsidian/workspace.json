@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting notes/Asus controls.md",
+                "file": "Fleeting notes/Bluetooth control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asus controls"
+              "title": "Bluetooth control"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "d06fbe5cbf8ac802",
   "lastOpenFiles": [
-    "Fleeting notes/Arch fan_curves.md",
     "Fleeting notes/Asus controls.md",
+    "Fleeting notes/Bluetooth control.md",
+    "Fleeting notes/Arch fan_curves.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/13. Kockadobás és binomiális eloszlás.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/12. Szórás.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/11. Valószínűségi változó.md",
@@ -210,7 +211,6 @@
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/1. A permutáció.md",
     "Untitled.md",
     "Organizational tools/Templates/General notes.md",
-    "Organizational tools/Templates/Permanent note.md",
     "Source Notes/Latex/Latex suite cheatsheet.png",
     "Source Notes/Latex/Letx suite greek words cheatsheet.png",
     "Source Notes/Latex",
