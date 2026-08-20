@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4576265d14e03f70",
+        "id": "dc68cd246c28a5a5",
         "type": "tabs",
         "children": [
           {
-            "id": "d06fbe5cbf8ac802",
+            "id": "6bd3293aa37ca379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting notes/Bluetooth control.md",
+                "file": "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Számtani sorozat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bluetooth control"
+              "title": "Számtani sorozat"
             }
           }
         ]
@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d06fbe5cbf8ac802",
+  "active": "6bd3293aa37ca379",
   "lastOpenFiles": [
-    "Fleeting notes/Network manager.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Számtani sorozat.md",
     "Fleeting notes/Bluetooth control.md",
+    "Fleeting notes/Network manager.md",
     "Fleeting notes/Asus controls.md",
     "Fleeting notes/Arch fan_curves.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/13. Kockadobás és binomiális eloszlás.md",
@@ -211,7 +211,6 @@
     "Source Notes/Matek/Függvény elemzések/ARCSIN.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/2. A kombináció.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/1. A permutáció.md",
-    "Organizational tools/Templates/General notes.md",
     "Source Notes/Latex/Latex suite cheatsheet.png",
     "Source Notes/Latex/Letx suite greek words cheatsheet.png",
     "Source Notes/Latex",
