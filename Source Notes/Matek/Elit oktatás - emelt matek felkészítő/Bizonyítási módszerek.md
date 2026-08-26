@@ -1,6 +1,3 @@
-# BIZONYÍTÁSI MÓDSZEREK
-
----
 
 ## 1. DIREKT BIZONYÍTÁS
 

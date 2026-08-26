@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Sorozatok/Számtani sorozat.md",
+                "file": "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Bizonyítási módszerek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Számtani sorozat"
+              "title": "Bizonyítási módszerek"
             }
           }
         ]
@@ -183,10 +183,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14d413f1da6c7a9",
+  "active": "6bd3293aa37ca379",
   "lastOpenFiles": [
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Sorozatok",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Integrálás/Integrálszámítás.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Integrálás/Integrálok kiszámítása.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Koordinátageometria/Bevezetés vektorok és távolságok.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Koordinátageometria/EGYENESEK.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Algebra/Hatványozás és n-edik gyök/Hatványozás kiterjesztése.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Algebra/Hatványozás és n-edik gyök/Hatványfüggvények.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Sorozatok/Számtani sorozat.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Sorozatok",
     "Fleeting notes/Bluetooth control.md",
     "Fleeting notes/Network manager.md",
     "Fleeting notes/Asus controls.md",
@@ -206,11 +212,6 @@
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/1. Események.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/7. Binomiális tétel – Bizonyítás.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/6. n alatt k – Pascal-háromszög – Bizonyítás.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/5. Binomiális együtthatók, binomiális tétel, Pascal-háromszög.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/4. Összefoglaló táblázat.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/3. A variáció.md",
-    "Source Notes/Matek/Függvény elemzések/ARCSIN.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/2. A kombináció.md",
     "Source Notes/Latex/Latex suite cheatsheet.png",
     "Source Notes/Latex/Letx suite greek words cheatsheet.png",
     "Source Notes/Latex",
@@ -229,7 +230,6 @@
     "Notes/Matek/kozepsuli dolgozatok/3.o_1.jpg",
     "Notes/Matek/Derivative/derivalttablazat.pdf",
     "Source Notes/Web-dev/CSS",
-    "Source Notes/Web-dev",
-    "Notes/Matek/kozepsuli dolgozatok"
+    "Source Notes/Web-dev"
   ]
 }
