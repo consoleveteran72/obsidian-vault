@@ -11,14 +11,13 @@
             "id": "6bd3293aa37ca379",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Bizonyítási módszerek.md",
-                "mode": "source",
-                "source": false
+                "file": "Organizational tools/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Bizonyítási módszerek"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -185,6 +184,12 @@
   },
   "active": "6bd3293aa37ca379",
   "lastOpenFiles": [
+    "Organizational tools/Templates/Permanent note.md",
+    "Organizational tools/Templates/General notes.md",
+    "Source Notes/Latex/Letx suite greek words cheatsheet.png",
+    "Source Notes/Latex/Latex suite cheatsheet.png",
+    "Source Notes/Latex/Latex matrixes syntax.md",
+    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Bizonyítási módszerek.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Integrálás/Integrálszámítás.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Integrálás/Integrálok kiszámítása.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Koordinátageometria/Bevezetés vektorok és távolságok.md",
@@ -208,12 +213,6 @@
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/5. Geometriai valószínűség.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/4. Feltételes valószínűség.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/3. Független események.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/2. Valószínűség.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/1. Események.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/7. Binomiális tétel – Bizonyítás.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Kombinatorika/6. n alatt k – Pascal-háromszög – Bizonyítás.md",
-    "Source Notes/Latex/Latex suite cheatsheet.png",
-    "Source Notes/Latex/Letx suite greek words cheatsheet.png",
     "Source Notes/Latex",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő",
     "Images/absolute.png",
