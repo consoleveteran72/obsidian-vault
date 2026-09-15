@@ -11,13 +11,14 @@
             "id": "6bd3293aa37ca379",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Organizational tools/Untitled.base",
-                "viewName": "Table"
+                "file": "Fleeting notes/Asus controls.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Asus controls"
             }
           }
         ]
@@ -184,6 +185,10 @@
   },
   "active": "6bd3293aa37ca379",
   "lastOpenFiles": [
+    "Fleeting notes/Arch fan_curves.md",
+    "Fleeting notes/Asus controls.md",
+    "Organizational tools/Untitled.base",
+    "Untitled.md",
     "Organizational tools/Templates/Permanent note.md",
     "Organizational tools/Templates/General notes.md",
     "Source Notes/Latex/Letx suite greek words cheatsheet.png",
@@ -200,8 +205,6 @@
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Sorozatok",
     "Fleeting notes/Bluetooth control.md",
     "Fleeting notes/Network manager.md",
-    "Fleeting notes/Asus controls.md",
-    "Fleeting notes/Arch fan_curves.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/13. Kockadobás és binomiális eloszlás.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/12. Szórás.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/11. Valószínűségi változó.md",
@@ -211,8 +214,6 @@
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/7. Hipergeometriai eloszlás – rövid példa.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/6. Binomiális eloszlás – rövid példa.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/5. Geometriai valószínűség.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/4. Feltételes valószínűség.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/5. Valószínűségszámítás/3. Független események.md",
     "Source Notes/Latex",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő",
     "Images/absolute.png",
@@ -224,7 +225,6 @@
     "Untitled",
     "Fleeting notes",
     "Permanent notes",
-    "Organizational tools/Untitled.base",
     "Notes/Matek/kozepsuli dolgozatok/3.o_2.jpg",
     "Notes/Matek/kozepsuli dolgozatok/3.o_1.jpg",
     "Notes/Matek/Derivative/derivalttablazat.pdf",
