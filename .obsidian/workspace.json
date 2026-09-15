@@ -11,10 +11,14 @@
             "id": "c1875c2ee5d65737",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting notes/FANcurve!!!!.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "FANcurve!!!!"
             }
           }
         ]
@@ -179,12 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14d413f1da6c7a9",
+  "active": "c1875c2ee5d65737",
   "lastOpenFiles": [
+    "Fleeting notes/FANcurve!!!!.md",
     "Fleeting notes/Asus controls.md",
     "Fleeting notes/Arch fan_curves.md",
     "Organizational tools/Untitled.base",
-    "Untitled.md",
     "Organizational tools/Templates/Permanent note.md",
     "Organizational tools/Templates/General notes.md",
     "Source Notes/Latex/Letx suite greek words cheatsheet.png",
