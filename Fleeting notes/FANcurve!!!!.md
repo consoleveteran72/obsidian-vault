@@ -1,1 +1,0 @@
-When I plug in/out the charger the fan curve turns off
