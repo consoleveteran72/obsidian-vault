@@ -20,8 +20,8 @@ Tetszőleges $a, b, c, d \in \mathbb{Z}$ egész számokra az alábbiak érvénye
 
 
 Related concepts:
-[[Oszthatóság - def]]
-[[Index - Oszthatóság]]
+[[Osztó jelentése]]
+[[Index - Diszkrét matematika#Oszthatóság]]
 
 Source:
 

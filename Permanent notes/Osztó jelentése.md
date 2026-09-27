@@ -4,9 +4,7 @@ Tags: #számelmélet, #definíció, #oszthatóság
 
 ## Definíció
 Az $a \in \mathbb{Z}$ egész szám **osztója** a $b \in \mathbb{Z}$ egész számnak (vagy $b$ **többszöröse** $a$-nak), ha létezik olyan $c \in \mathbb{Z}$ egész szám, amelyre:
-
-$$ac = b$$
-
+ $$ac = b$$
 **Jelölés:** $a \mid b$
 **Tagadás:** $a \nmid b$ ($a$ nem osztója $b$-nek)
 
@@ -20,9 +18,9 @@ $$ac = b$$
 
 Related concepts:
 [[Oszthatóság Alaptulajdonságai]]
-[[Index - Oszthatóság]]
+[[Index - Diszkrét matematika#Oszthatóság]]
 
-Source: Dimat ea.
+Source:
 
 
 
