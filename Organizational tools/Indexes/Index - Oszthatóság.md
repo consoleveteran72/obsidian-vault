@@ -1,0 +1,2 @@
+[[Oszthatóság - def]]
+[[Oszthatóság Alaptulajdonságai]]
