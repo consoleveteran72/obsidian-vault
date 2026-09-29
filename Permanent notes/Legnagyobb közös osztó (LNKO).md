@@ -1,6 +1,8 @@
 Date: 2026-09-27
 Tags: #definíció, #számelmélet, #oszthatóság
 
+Angolul: Greatest common divisor (GCD)
+
 ## Definíció
  
  A $c$ egész számot az $a$ és $b$ egészek **közös osztójának** nevezzük, ha $c \mid a$ és $c \mid b$. A $c$ egész szám $a$ és $b$ **legnagyobb közös osztója**, ha közös osztójuk, valamint $a$ és $b$ minden $c'$ közös osztójára $c' \mid c$ teljesül.

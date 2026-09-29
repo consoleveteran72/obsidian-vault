@@ -6,7 +6,7 @@ Tags: #számhalmaz
 
 
 Related concepts:
-[[Index - Diszkrét matematika#Számhalmazok]]
+[[Index - Diszkrét matematika#Halmazok]]
 
 Source:
 

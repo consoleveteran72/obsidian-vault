@@ -3,6 +3,8 @@
 Date: 2026-09-27
 Tags: #számelmélet, #definíció, #oszthatóság
 
+Angolul: Least common multiple (LCM)
+
 ## Definíció
 
 A $d$ egész számot az $a$ és $b$ egészek **közös többszörösének** nevezzük, ha $a \mid d$ és $b \mid d$. A $d$ egész szám $a$ és $b$ **legkisebb közös többszöröse**, ha közös többszörösük, valamint $a$ és $b$ minden $d'$ közös többszörösére $d \mid d'$ teljesül.
@@ -14,7 +16,7 @@ A $d$ egész számot az $a$ és $b$ egészek **közös többszörösének** neve
 
 
 Related concepts:
-[[Index - Diszkrét matematika]]
+[[Index - Diszkrét matematika#Oszthatóság]]
 
 Source:
 
