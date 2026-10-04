@@ -1,11 +1,12 @@
-# Halmazok
+# 1.
+## Halmazok
 [[Halmaz, elem, részhalmaz]]
 [[Egész számok jelölése]]
 [[Természetes számok jelölése]]
 [[Halmazműveleti azonosságok]]
 
 
-# Oszthatóság
+## Oszthatóság
 
 [[Osztó jelentése]]
 [[Oszthatóság Alaptulajdonságai]]

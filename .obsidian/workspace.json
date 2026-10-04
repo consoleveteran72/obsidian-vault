@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0460e9069cf31dcf",
+        "id": "66e44f9a5ca56c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "11ee43a60985ac7b",
+            "id": "b60e02794f985ad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting notes/Hardware control.md",
+                "file": "Organizational tools/Indexes/Index - Lineáris algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware control"
+              "title": "Index - Lineáris algebra"
             }
           }
         ]
@@ -183,24 +183,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11ee43a60985ac7b",
+  "active": "b60e02794f985ad4",
   "lastOpenFiles": [
+    "Organizational tools/Indexes/Index - Kalkulus.md",
+    "Organizational tools/Indexes/Index - Lineáris algebra.md",
+    "Organizational tools/Indexes/Index - Diszkrét matematika.md",
+    "Permanent notes/Descartes-szorzat.md",
+    "Permanent notes/Egész számok jelölése.md",
+    "Permanent notes/Halmaz, elem, részhalmaz.md",
+    "Permanent notes/Halmazműveleti azonosságok.md",
+    "Permanent notes/Legkisebb közös többszörös (LKKT).md",
+    "Permanent notes/Legnagyobb közös osztó (LNKO).md",
+    "Permanent notes/Oszthatóság Alaptulajdonságai.md",
+    "Permanent notes/Osztó jelentése.md",
+    "Fleeting notes/Hardware control.md",
     "Fleeting notes/Arch fan_curves.md",
     "Fleeting notes/Asus controls.md",
-    "Fleeting notes/Hardware control.md",
-    "Permanent notes/Legkisebb közös többszörös (LKKT).md",
-    "Organizational tools/Indexes/Index - Diszkrét matematika.md",
-    "Permanent notes/Legnagyobb közös osztó (LNKO).md",
-    "Permanent notes/Halmazműveleti azonosságok.md",
-    "Permanent notes/Halmaz, elem, részhalmaz.md",
     "Source Notes/Matek/Függvény elemzések/COS.md",
-    "Permanent notes/Descartes-szorzat.md",
-    "Permanent notes/Osztó jelentése.md",
     "Fleeting notes/Network manager.md",
     "Fleeting notes/Bluetooth control.md",
     "Permanent notes/Természetes számok jelölése.md",
-    "Permanent notes/Egész számok jelölése.md",
-    "Permanent notes/Oszthatóság Alaptulajdonságai.md",
     "Organizational tools/Indexes/Index - számhalmazok.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Statisztika/Nevezetes közepek.md",
     "Fleeting notes/FANcurve!!!!.md",
@@ -212,8 +214,6 @@
     "Source Notes/Latex/Latex matrixes syntax.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Bizonyítási módszerek.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Integrálás/Integrálszámítás.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Integrálás/Integrálok kiszámítása.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Koordinátageometria/Bevezetés vektorok és távolságok.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Sorozatok",
     "Source Notes/Latex",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő",
