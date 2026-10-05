@@ -20,3 +20,26 @@ cat /sys/class/power_supply/BAT0/capacity
 echo 60 > /sys/class/power_supply/BAT0/charge_control_end_threshold
 #set charge limit to 60
 ```
+
+
+# important
+
+/sys/class/firmware-attributes/asus-armoury
+
+/sys/class/platform-profile
+
+/sys/class/thermal/thermal_zone0
+
+/sys/class/wmi_bus
+
+/sys/class/pci_bus
+
+/sys/class/ `drm` / `graphics` / `kfd` / `accel`
+
+/sys/class/hwmon/hwmon1 - thermal
+/sys/class/hwmon/hwmon3 - cpu_fan
+/sys/class/hwmon/hwmon4 - asus_custom_fan_curve
+/sys/class/hwmon/hwmon8 - amdgpu
+
+/sys/class/backlight
+/sys/class/leds

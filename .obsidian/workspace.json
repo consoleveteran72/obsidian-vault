@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting notes/Hardware control.md",
+                "file": "Organizational tools/Indexes/Index - Bash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware control"
+              "title": "Index - Bash"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "b60e02794f985ad4",
   "lastOpenFiles": [
+    "Permanent notes/Execute bash files.md",
+    "Organizational tools/Indexes/Index - Bash.md",
     "Fleeting notes/Hardware control.md",
     "Fleeting notes/Asus controls.md",
     "Organizational tools/Indexes/Index - Lineáris algebra.md",
@@ -212,8 +214,6 @@
     "Source Notes/Latex/Letx suite greek words cheatsheet.png",
     "Source Notes/Latex/Latex suite cheatsheet.png",
     "Source Notes/Latex/Latex matrixes syntax.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Bizonyítási módszerek.md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Integrálás/Integrálszámítás.md",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Sorozatok",
     "Source Notes/Latex",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő",
