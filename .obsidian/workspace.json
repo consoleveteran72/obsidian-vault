@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizational tools/Indexes/Index - Lineáris algebra.md",
+                "file": "Fleeting notes/Hardware control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index - Lineáris algebra"
+              "title": "Hardware control"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "b60e02794f985ad4",
   "lastOpenFiles": [
-    "Organizational tools/Indexes/Index - Kalkulus.md",
+    "Fleeting notes/Hardware control.md",
+    "Fleeting notes/Asus controls.md",
     "Organizational tools/Indexes/Index - Lineáris algebra.md",
+    "Organizational tools/Indexes/Index - Kalkulus.md",
     "Organizational tools/Indexes/Index - Diszkrét matematika.md",
     "Permanent notes/Descartes-szorzat.md",
     "Permanent notes/Egész számok jelölése.md",
@@ -196,9 +198,7 @@
     "Permanent notes/Legnagyobb közös osztó (LNKO).md",
     "Permanent notes/Oszthatóság Alaptulajdonságai.md",
     "Permanent notes/Osztó jelentése.md",
-    "Fleeting notes/Hardware control.md",
     "Fleeting notes/Arch fan_curves.md",
-    "Fleeting notes/Asus controls.md",
     "Source Notes/Matek/Függvény elemzések/COS.md",
     "Fleeting notes/Network manager.md",
     "Fleeting notes/Bluetooth control.md",
