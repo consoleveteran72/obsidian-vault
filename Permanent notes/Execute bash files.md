@@ -11,6 +11,6 @@ Run it with ./filename.sh
 
 
 Related concepts:
-[[Index - Bash]]
+[[Index - Terminal]]
 
 Source:

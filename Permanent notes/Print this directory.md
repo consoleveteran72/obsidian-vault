@@ -8,7 +8,7 @@ Prints the current directory you're in.
 
 
 Related concepts:
-[[Index - Bash]]
+[[Index - Terminal]]
 
 Source:
 
