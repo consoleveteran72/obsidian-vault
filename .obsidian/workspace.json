@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b9b5562c921823",
+        "id": "1e3d5aba588fee93",
         "type": "tabs",
         "children": [
           {
-            "id": "04993ac9b7394316",
+            "id": "3d7f5abb5ad3345b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent notes/Kongruencia megoldhatóság feltétel.md",
+                "file": "Organizational tools/Indexes/Index - Diszkrét matematika.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kongruencia megoldhatóság feltétel"
+              "title": "Index - Diszkrét matematika"
             }
           }
         ]
@@ -183,12 +183,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c14d413f1da6c7a9",
+  "active": "3d7f5abb5ad3345b",
   "lastOpenFiles": [
+    "Organizational tools/Indexes/Index - Kalkulus.md",
+    "Organizational tools/Indexes/Index - Lineáris algebra.md",
+    "Organizational tools/Indexes/Index - Terminal.md",
+    "Organizational tools/Untitled.base",
+    "Permanent notes/A komplex számok halmaza.md",
+    "Organizational tools/Indexes/Index - Diszkrét matematika.md",
+    "Permanent notes/A komplex számok felépítése.md",
+    "Permanent notes/Komplex számok konjugáltja és abszolútértéke.md",
+    "Permanent notes/Gauss-féle számsík.md",
+    "Permanent notes/Komplex számok kanonikus alakja.md",
+    "Images/Gauss-féle számsík.md",
+    "Excalidraw/Drawing 2026-10-19 16.48.07.excalidraw.md",
+    "Images/cos.png",
+    "Excalidraw/Drawing 2026-10-19 16.47.05.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-19 16.46.11.excalidraw.md",
+    "Permanent notes/screenshot_2026-10-19_16 43 11.png",
+    "Untitled.canvas",
+    "Excalidraw",
+    "Permanent notes/Szokásos számolási szabályok.md",
+    "Permanent notes/Komplex számok létezése és egyértelműsége.md",
+    "Permanent notes/Test fogalma.md",
+    "Permanent notes/Kongruencia megoldhatóság feltétel.md",
     "Permanent notes/Kongruencia egyszerűsítése egy tényezővel.md",
     "Permanent notes/Két kongruenciából álló rendszer megoldása.md",
-    "Organizational tools/Indexes/Index - Diszkrét matematika.md",
-    "Permanent notes/Kongruencia megoldhatóság feltétel.md",
     "Permanent notes/Kétismeretlenes diofantoszi egyenlet megoldhatósága.md",
     "Permanent notes/Print this directory.md",
     "Permanent notes/Legkisebb közös többszörös (LKKT).md",
@@ -196,22 +216,6 @@
     "Fleeting notes/Arch fan_curves.md",
     "Fleeting notes/Rust dashboard.md",
     "Fleeting notes/Rust book.md",
-    "Organizational tools/Indexes/Index - Terminal.md",
-    "Permanent notes/Execute bash files.md",
-    "Fleeting notes/Hardware control.md",
-    "Fleeting notes/Asus controls.md",
-    "Organizational tools/Indexes/Index - Lineáris algebra.md",
-    "Organizational tools/Indexes/Index - Kalkulus.md",
-    "Permanent notes/Descartes-szorzat.md",
-    "Permanent notes/Egész számok jelölése.md",
-    "Permanent notes/Halmaz, elem, részhalmaz.md",
-    "Permanent notes/Halmazműveleti azonosságok.md",
-    "Permanent notes/Legnagyobb közös osztó (LNKO).md",
-    "Permanent notes/Oszthatóság Alaptulajdonságai.md",
-    "Permanent notes/Osztó jelentése.md",
-    "Source Notes/Matek/Függvény elemzések/COS.md",
-    "Fleeting notes/Network manager.md",
-    "Organizational tools/Untitled.base",
     "Source Notes/Latex/Letx suite greek words cheatsheet.png",
     "Source Notes/Latex/Latex suite cheatsheet.png",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Sorozatok",
@@ -220,16 +224,13 @@
     "Images/absolute.png",
     "Images/arcsin.png",
     "Images/arctan.png",
-    "Images/cos.png",
     "Images/squareroot.png",
     "Images/tan.png",
     "Untitled",
     "Fleeting notes",
     "Permanent notes",
     "Notes/Matek/kozepsuli dolgozatok/3.o_2.jpg",
-    "Notes/Matek/kozepsuli dolgozatok/3.o_1.jpg",
     "Notes/Matek/Derivative/derivalttablazat.pdf",
-    "Source Notes/Web-dev/CSS",
-    "Source Notes/Web-dev"
+    "Source Notes/Web-dev/CSS"
   ]
 }
