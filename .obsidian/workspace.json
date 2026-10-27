@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizational tools/Indexes/Index - Diszkrét matematika.md",
+                "file": "Fleeting notes/Hardware control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index - Diszkrét matematika"
+              "title": "Hardware control"
+            }
+          },
+          {
+            "id": "cb518842a6ea34db",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,14 +196,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d7f5abb5ad3345b",
+  "active": "cb518842a6ea34db",
   "lastOpenFiles": [
+    "Fleeting notes/Rust dashboard.md",
+    "Fleeting notes/Bluetooth control.md",
+    "Fleeting notes/Asus controls.md",
+    "Fleeting notes/Arch fan_curves.md",
+    "Organizational tools/Indexes/Index - Diszkrét matematika.md",
     "Organizational tools/Indexes/Index - Kalkulus.md",
     "Organizational tools/Indexes/Index - Lineáris algebra.md",
     "Organizational tools/Indexes/Index - Terminal.md",
     "Organizational tools/Untitled.base",
     "Permanent notes/A komplex számok halmaza.md",
-    "Organizational tools/Indexes/Index - Diszkrét matematika.md",
     "Permanent notes/A komplex számok felépítése.md",
     "Permanent notes/Komplex számok konjugáltja és abszolútértéke.md",
     "Permanent notes/Gauss-féle számsík.md",
@@ -212,10 +229,6 @@
     "Permanent notes/Kétismeretlenes diofantoszi egyenlet megoldhatósága.md",
     "Permanent notes/Print this directory.md",
     "Permanent notes/Legkisebb közös többszörös (LKKT).md",
-    "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/2. Számelmélet/5. Közös osztó, közös többszörös és az osztók száma.md",
-    "Fleeting notes/Arch fan_curves.md",
-    "Fleeting notes/Rust dashboard.md",
-    "Fleeting notes/Rust book.md",
     "Source Notes/Latex/Letx suite greek words cheatsheet.png",
     "Source Notes/Latex/Latex suite cheatsheet.png",
     "Source Notes/Matek/Elit oktatás - emelt matek felkészítő/Sorozatok",
